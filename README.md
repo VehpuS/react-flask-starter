@@ -1,5 +1,7 @@
 # Flask + React App Starter
 
+Based on a [Glitch.com](https://glitch.com) [experiment](https://glitch.com/edit/#!/hello-react-flask).
+
 ## Setup Instructions
 
 1. If missing, install Python 3 [directly](https://www.python.org/downloads/) or via [PyEnv](https://github.com/pyenv/pyenv#getting-pyenv). Make sure you have `venv` and `pip3` available.
